@@ -29,6 +29,15 @@ Tutto in un'unica piattaforma, moderna, intuitiva e pronta all'uso.
 
 <img width="1209" height="503" alt="2" src="https://github.com/user-attachments/assets/84745366-89a4-47f5-ac8e-f0903431e707" />
 
+<img width="1209" height="503" alt="3" src="https://github.com/user-attachments/assets/1f36ed64-2cad-4d1b-8adb-c8648ee4eda4" />
+
+<img width="1209" height="503" alt="4" src="https://github.com/user-attachments/assets/3317898f-0716-4207-b080-a2ca44f74fdb" />
+
+<img width="1209" height="506" alt="5" src="https://github.com/user-attachments/assets/d6f2feba-f01a-4964-a3f2-c0a9ef519f49" />
+
+<img width="1209" height="503" alt="6" src="https://github.com/user-attachments/assets/80ef4e3e-26c9-4917-8509-cf4be11ec585" />
+
+
 
 
 - Dashboard panoramica
