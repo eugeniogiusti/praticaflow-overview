@@ -1,7 +1,6 @@
 # PraticaFlow
 
-![Uploading og-preview.png…]()
-
+<img width="1024" height="1024" alt="og-preview" src="https://github.com/user-attachments/assets/6426e894-a041-439a-9203-aef6e9020798" />
 
 **Il gestionale all-in-one per CAF, patronati e agenzie per immigrazione.**  
 PraticaFlow semplifica la gestione quotidiana del tuo ufficio: pratiche, clienti, scadenze, documenti, appuntamenti, task, pagamenti e molto altro.  
