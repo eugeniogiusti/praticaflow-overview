@@ -25,7 +25,11 @@ Tutto in un'unica piattaforma, moderna, intuitiva e pronta all'uso.
 
 ## 📸 Screenshot
 
-*(Puoi aggiungere qui immagini, ad esempio:)*
+<img width="1209" height="500" alt="1" src="https://github.com/user-attachments/assets/ac14efa7-82fb-4935-bf88-60b198d42d24" />
+
+<img width="1209" height="503" alt="2" src="https://github.com/user-attachments/assets/84745366-89a4-47f5-ac8e-f0903431e707" />
+
+
 
 - Dashboard panoramica
 - Gestione clienti
