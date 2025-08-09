@@ -1,4 +1,4 @@
-# PraticaFlow
+# PraticaFlow - Organizza, gestisci e consegna… tutto in un unico flusso
 
 <img width="1024" height="1024" alt="og-preview" src="https://github.com/user-attachments/assets/6426e894-a041-439a-9203-aef6e9020798" />
 
