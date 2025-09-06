@@ -31,6 +31,8 @@ Tutto in un'unica piattaforma, moderna, intuitiva e pronta all'uso.
 
 <img width="1209" height="503" alt="3" src="https://github.com/user-attachments/assets/1f36ed64-2cad-4d1b-8adb-c8648ee4eda4" />
 
+<img width="1381" height="690" alt="Screenshot 2025-09-06 alle 19 43 49" src="https://github.com/user-attachments/assets/bde2a162-93a3-480e-9ebb-82fc12959bf3" />
+
 <img width="1209" height="506" alt="5" src="https://github.com/user-attachments/assets/d6f2feba-f01a-4964-a3f2-c0a9ef519f49" />
 
 <img width="1209" height="503" alt="6" src="https://github.com/user-attachments/assets/80ef4e3e-26c9-4917-8509-cf4be11ec585" />
