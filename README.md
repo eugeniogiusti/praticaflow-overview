@@ -23,6 +23,12 @@ Tutto in un'unica piattaforma, moderna, intuitiva e pronta all'uso.
 
 ---
 
+## 🎥 Video demo
+
+[![Guarda la demo su YouTube](https://img.youtube.com/vi/JVR8isCPK0k/maxresdefault.jpg)](https://www.youtube.com/watch?v=JVR8isCPK0k)
+
+
+
 ## 📸 Screenshot
 
 <img width="1209" height="500" alt="1" src="https://github.com/user-attachments/assets/ac14efa7-82fb-4935-bf88-60b198d42d24" />
