@@ -25,9 +25,11 @@ Tutto in un'unica piattaforma, moderna, intuitiva e pronta all'uso.
 
 ## 🎥 Video demo
 
-[![Guarda la demo su YouTube](https://img.youtube.com/vi/JVR8isCPK0k/maxresdefault.jpg)](https://www.youtube.com/watch?v=JVR8isCPK0k)
+<a href="https://www.youtube.com/watch?v=JVR8isCPK0k" target="_blank">
+  <img src="https://img.youtube.com/vi/JVR8isCPK0k/maxresdefault.jpg" alt="Guarda la demo su YouTube" width="600">
+</a>
 
-
+---
 
 ## 📸 Screenshot
 
