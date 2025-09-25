@@ -87,10 +87,3 @@ Per info, demo o collaborazione:
 📧 Email: [info@eugeniogiustitechsolution.com](mailto:info@eugeniogiustitechsolution.com)  
 🌐 Sito: [www.praticaflow.it](https://www.praticaflow.it)
 
----
-
-
-## 📄 Licenza
-
-© 2025 Eugenio Giusti. Tutti i diritti riservati.  
-Vietata la copia, redistribuzione o reverse engineering non autorizzato.
