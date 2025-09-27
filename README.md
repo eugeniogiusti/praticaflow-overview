@@ -72,12 +72,6 @@ Consulta la wiki con tutorial, video e guide per ogni sezione:
 
 ---
 
-## 🚀 Versioni disponibili
-
-- 🌐 **Cloud (SaaS)** – accesso da browser, aggiornamenti inclusi
-- 💻 **Self-hosted** – installazione su server proprio, per chi vuole autonomia
-
----
 
 
 ## 📬 Contatti
